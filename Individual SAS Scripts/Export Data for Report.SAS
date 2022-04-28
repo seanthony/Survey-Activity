@@ -1,3 +1,7 @@
+/*
+    NOTE: this is just practice and the data used are not real
+*/
+
 /* this export is designed with human readable columns
 so changing the validvarnames option to ANY */
 options validvarname=any;

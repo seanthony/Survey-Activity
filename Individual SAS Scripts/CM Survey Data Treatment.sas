@@ -1,4 +1,8 @@
 /*
+    NOTE: this is just practice and the data used are not real
+*/
+
+/*
 open each of the files and combine them into a single data set
 */
 /* i prefer to have escaped variable names,

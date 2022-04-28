@@ -1,3 +1,7 @@
+/*
+    NOTE: this is just practice and the data used are not real
+*/
+
 options validvarname=v7;
 
 /* import the alumni survey data */
